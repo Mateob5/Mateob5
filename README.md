@@ -1,5 +1,4 @@
 - 👋 Hi, I'm @Mateob5
-- 👀 I'm interested in Programming
-- 🌱 I am currently learning Python, JavaScript & PHP
-- 💞️ I'm looking to collaborate on Python & JavaScript projects
+- 🌱 I am currently learning ReactJS
+- 💞️ I'm looking to collaborate on projects
 - 📫 How to contact me mateobazan50@gmail.com

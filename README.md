@@ -1,3 +1,3 @@
 - 👋 Hi, I'm @Mateob5
-- 🌱 Currently learning ReactJS
+- 🌱 Currently learning ML
 - 📫 mateobazan50@gmail.com

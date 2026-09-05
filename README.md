@@ -8,60 +8,13 @@ I build with **data, machine learning, web technologies**.
 
 ## 🛠️ Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+**Languages** <img src="https://cdn.simpleicons.org/python" width="32" alt="Python"/> <img src="https://cdn.simpleicons.org/cplusplus" width="32" alt="C++"/> <img src="https://cdn.simpleicons.org/javascript" width="32" alt="JavaScript"/>
 
-**Languages**
+**Data & ML** <img src="https://cdn.simpleicons.org/pandas" width="32" alt="Pandas"/> <img src="https://cdn.simpleicons.org/numpy" width="32" alt="NumPy"/> <img src="https://cdn.simpleicons.org/scikitlearn" width="32" alt="Scikit-learn"/>
 
-<p>
-  <img src="https://cdn.simpleicons.org/python" width="36" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/cplusplus" width="36" alt="C++"/>
-  <img src="https://cdn.simpleicons.org/javascript" width="36" alt="JavaScript"/>
-</p>
+**Web** <img src="https://cdn.simpleicons.org/react" width="32" alt="React"/> <img src="https://cdn.simpleicons.org/nextdotjs" width="32" alt="Next.js"/> <img src="https://cdn.simpleicons.org/nodedotjs" width="32" alt="Node.js"/> <img src="https://cdn.simpleicons.org/tailwindcss" width="32" alt="Tailwind CSS"/>
 
-</td>
-    <td width="50%" valign="top">
-
-**Data & ML**
-
-<p>
-  <img src="https://cdn.simpleicons.org/pandas" width="36" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/numpy" width="36" alt="NumPy"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn" width="36" alt="Scikit-learn"/>
-</p>
-
-</td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-**Web**
-
-<p>
-  <img src="https://cdn.simpleicons.org/react" width="36" alt="React"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs" width="36" alt="Next.js"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs" width="36" alt="Node.js"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="36" alt="Tailwind CSS"/>
-</p>
-
-</td>
-    <td width="50%" valign="top">
-
-**Database & Tools**
-
-<p>
-  <img src="https://cdn.simpleicons.org/mysql" width="36" alt="MySQL"/>
-  <img src="https://cdn.simpleicons.org/supabase" width="36" alt="Supabase"/>
-  <img src="https://cdn.simpleicons.org/prisma" width="36" alt="Prisma"/>
-  <img src="https://cdn.simpleicons.org/git" width="36" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/linux" width="36" alt="Linux"/>
-</p>
-
-</td>
-  </tr>
-</table>
+**Database & Tools** <img src="https://cdn.simpleicons.org/mysql" width="32" alt="MySQL"/> <img src="https://cdn.simpleicons.org/supabase" width="32" alt="Supabase"/> <img src="https://cdn.simpleicons.org/prisma" width="32" alt="Prisma"/> <img src="https://cdn.simpleicons.org/git" width="32" alt="Git"/> <img src="https://cdn.simpleicons.org/linux" width="32" alt="Linux"/>
 
 ---
 

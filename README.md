@@ -37,8 +37,6 @@ Currently learning, building, and breaking things to understand how they work.
 <p>
   <img src="https://cdn.simpleicons.org/react" width="40" alt="React"/> 
   <img src="https://cdn.simpleicons.org/nextdotjs" width="40" alt="Next.js"/> 
-  <img src="https://cdn.simpleicons.org/django" width="40" alt="Django"/> 
-  <img src="https://cdn.simpleicons.org/fastapi" width="40" alt="FastAPI"/> 
   <img src="https://cdn.simpleicons.org/nodedotjs" width="40" alt="Node.js"/> 
   <img src="https://cdn.simpleicons.org/vite" width="40" alt="Vite"/> 
   <img src="https://cdn.simpleicons.org/tailwindcss" width="40" alt="Tailwind CSS"/> 
@@ -47,7 +45,6 @@ Currently learning, building, and breaking things to understand how they work.
 **Database & Tools**
 
 <p>
-  <img src="https://cdn.simpleicons.org/postgresql" width="40" alt="PostgreSQL"/> 
   <img src="https://cdn.simpleicons.org/mysql" width="40" alt="MySQL"/> 
   <img src="https://cdn.simpleicons.org/supabase" width="40" alt="Supabase"/> 
   <img src="https://cdn.simpleicons.org/prisma" width="40" alt="Prisma"/> 

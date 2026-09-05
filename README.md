@@ -72,16 +72,6 @@ Authentication & CRUD application · `PHP` `MySQL`
 
 ---
 
-## ⛓️ Web3
-
-Exploring **blockchain development and security**.
-
-Interested in:
-
-`Solidity` · `Ethereum` · `DeFi` · `Smart Contracts` · `Web3 Security`
-
----
-
 ## 📫
 
 [LinkedIn](https://www.linkedin.com/in/jeronimo-andres-m-bazan-r-53a81b238/) · [Email](mailto:mateobazan50@gmail.com)

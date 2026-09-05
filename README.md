@@ -1,4 +1,4 @@
-# Mateo Bazan
+# Hi, I'm Teo 👋
 
 **Data Science Engineering Student · Full-Stack Developer · Web3 Enthusiast**
 

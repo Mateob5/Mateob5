@@ -27,7 +27,7 @@ Currently learning, building, and breaking things to understand how they work.
 
 ---
 
-## 🚀 Projects
+## 🚀 Best Repositories
 
 **📊 Bank Marketing ML**  
 Predictive classification & campaign optimization · `Python` `Scikit-learn`

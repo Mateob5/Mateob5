@@ -46,12 +46,6 @@ Currently learning, building, and breaking things to understand how they work.
   <img src="https://cdn.simpleicons.org/linux" width="40" alt="Linux"/> 
 </p>
 
-**Web3**
-
-<p>
-  In progress
-</p>
-
 ---
 
 ## 🚀 Best Repositories

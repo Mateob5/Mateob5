@@ -14,7 +14,7 @@ Currently learning, building, and breaking things to understand how they work.
 
 <p>
   <img src="https://cdn.simpleicons.org/python" width="40" alt="Python"/> 
-  <img src="https://cdn.simpleicons.org/openjdk" width="40" alt="Java"/> 
+  <img src="https://cdn.simpleicons.org/java" width="40" alt="Java"/> 
   <img src="https://cdn.simpleicons.org/cplusplus" width="40" alt="C++"/> 
   <img src="https://cdn.simpleicons.org/javascript" width="40" alt="JavaScript"/> 
   <img src="https://cdn.simpleicons.org/php" width="40" alt="PHP"/> 

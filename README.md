@@ -17,7 +17,6 @@ Currently learning, building, and breaking things to understand how they work.
   <img src="https://cdn.simpleicons.org/openjdk" width="40" alt="Java"/> 
   <img src="https://cdn.simpleicons.org/cplusplus" width="40" alt="C++"/> 
   <img src="https://cdn.simpleicons.org/javascript" width="40" alt="JavaScript"/> 
-  <img src="https://cdn.simpleicons.org/typescript" width="40" alt="TypeScript"/> 
   <img src="https://cdn.simpleicons.org/php" width="40" alt="PHP"/> 
   <img src="https://cdn.simpleicons.org/mysql" width="40" alt="SQL"/> 
 </p>
@@ -37,7 +36,6 @@ Currently learning, building, and breaking things to understand how they work.
   <img src="https://cdn.simpleicons.org/react" width="40" alt="React"/> 
   <img src="https://cdn.simpleicons.org/nextdotjs" width="40" alt="Next.js"/> 
   <img src="https://cdn.simpleicons.org/nodedotjs" width="40" alt="Node.js"/> 
-  <img src="https://cdn.simpleicons.org/vite" width="40" alt="Vite"/> 
   <img src="https://cdn.simpleicons.org/tailwindcss" width="40" alt="Tailwind CSS"/> 
 </p>
 

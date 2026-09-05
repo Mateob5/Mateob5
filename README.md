@@ -7,59 +7,61 @@ I build with **data, machine learning, web technologies, and blockchain**.
 Currently learning, building, and breaking things to understand how they work.
 
 ---
+
 ## 🛠️ Stack
 
 **Languages**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
+  <img src="https://cdn.simpleicons.org/python" width="40" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/java" width="40" alt="Java"/>
+  <img src="https://cdn.simpleicons.org/cplusplus" width="40" alt="C++"/>
+  <img src="https://cdn.simpleicons.org/javascript" width="40" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/typescript" width="40" alt="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/php" width="40" alt="PHP"/>
+  <img src="https://cdn.simpleicons.org/mysql" width="40" alt="SQL"/>
 </p>
 
 **Data & ML**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40" alt="SciPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
+  <img src="https://cdn.simpleicons.org/pandas" width="40" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/numpy" width="40" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn" width="40" alt="Scikit-learn"/>
+  <img src="https://cdn.simpleicons.org/scipy" width="40" alt="SciPy"/>
+  <img src="https://cdn.simpleicons.org/pytorch" width="40" alt="PyTorch"/>
 </p>
 
 **Web**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" alt="Vite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.simpleicons.org/react" width="40" alt="React"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs" width="40" alt="Next.js"/>
+  <img src="https://cdn.simpleicons.org/django" width="40" alt="Django"/>
+  <img src="https://cdn.simpleicons.org/fastapi" width="40" alt="FastAPI"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="40" alt="Node.js"/>
+  <img src="https://cdn.simpleicons.org/vite" width="40" alt="Vite"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="40" alt="Tailwind CSS"/>
 </p>
 
 **Database & Tools**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" alt="Supabase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="Prisma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://cdn.simpleicons.org/postgresql" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/mysql" width="40" alt="MySQL"/>
+  <img src="https://cdn.simpleicons.org/supabase" width="40" alt="Supabase"/>
+  <img src="https://cdn.simpleicons.org/prisma" width="40" alt="Prisma"/>
+  <img src="https://cdn.simpleicons.org/git" width="40" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/linux" width="40" alt="Linux"/>
 </p>
 
 **Web3**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" alt="Solidity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="40" alt="Ethereum"/>
+  <img src="https://cdn.simpleicons.org/solidity" width="40" alt="Solidity"/>
+  <img src="https://cdn.simpleicons.org/ethereum" width="40" alt="Ethereum"/>
 </p>
+
 ---
 
 ## 🚀 Best Repositories

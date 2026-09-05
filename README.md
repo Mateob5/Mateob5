@@ -2,7 +2,7 @@
 
 **Data Science Engineering Student · Full-Stack Developer · Web3 Enthusiast**
 
-I build with **data, machine learning, web technologies, and blockchain**.
+I build with **data, machine learning, web technologies**.
 
 Currently learning, building, and breaking things to understand how they work.
 

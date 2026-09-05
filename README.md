@@ -101,4 +101,4 @@ Interested in:
 
 ## 📫
 
-[LinkedIn](https://www.linkedin.com/in/jeronimo-andres-m-bazan-r-53a81b238/)) · [Email](mateobazan50@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jeronimo-andres-m-bazan-r-53a81b238/) · [Email](mateobazan50@gmail.com)

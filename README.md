@@ -28,7 +28,6 @@ Currently learning, building, and breaking things to understand how they work.
   <img src="https://cdn.simpleicons.org/pandas" width="40" alt="Pandas"/> 
   <img src="https://cdn.simpleicons.org/numpy" width="40" alt="NumPy"/> 
   <img src="https://cdn.simpleicons.org/scikitlearn" width="40" alt="Scikit-learn"/> 
-  <img src="https://cdn.simpleicons.org/scipy" width="40" alt="SciPy"/> 
   <img src="https://cdn.simpleicons.org/pytorch" width="40" alt="PyTorch"/> 
 </p>
 

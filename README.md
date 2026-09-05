@@ -85,7 +85,7 @@ Authentication & CRUD application · `PHP` `MySQL`
 
 ## 📚 Currently Learning
 
-`Machine Learning` · `Bayesian Statistics` · `Data Engineering` · `Optimization` · `Deep Learning` · `Web3 Security`
+`Machine Learning` · `Data Engineering` · `Deep Learning` · `Web3`
 
 ---
 
@@ -101,4 +101,4 @@ Interested in:
 
 ## 📫
 
-[LinkedIn](YOUR_LINKEDIN) · [Portfolio](YOUR_PORTFOLIO) · [Email](YOUR_EMAIL)
+[LinkedIn]([https://www.linkedin.com/in/jeronimo-andres-m-bazan-r-53a81b238/])) · [Portfolio](YOUR_PORTFOLIO) · [Email](YOUR_EMAIL)

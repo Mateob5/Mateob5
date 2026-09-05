@@ -4,8 +4,6 @@
 
 I build with **data, machine learning, web technologies**.
 
-Currently learning, building, and breaking things to understand how they work.
-
 ---
 
 ## 🛠️ Stack

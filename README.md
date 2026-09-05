@@ -83,19 +83,19 @@ Authentication & CRUD application · `PHP` `MySQL`
 
 ---
 
+## 📚 Currently Learning
+
+`Machine Learning` · `Bayesian Statistics` · `Data Engineering` · `Optimization` · `Deep Learning` · `Web3 Security`
+
+---
+
 ## ⛓️ Web3
 
 Exploring **blockchain development and security**.
 
 Interested in:
 
-`Solidity` · `Ethereum` · `DeFi` · `Smart Contracts` · `Web3 Security` · `Bug Bounties`
-
----
-
-## 📚 Currently Learning
-
-`Machine Learning` · `Bayesian Statistics` · `Data Engineering` · `Optimization` · `Deep Learning` · `Web3 Security`
+`Solidity` · `Ethereum` · `DeFi` · `Smart Contracts` · `Web3 Security`
 
 ---
 

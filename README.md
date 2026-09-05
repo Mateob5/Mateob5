@@ -52,8 +52,7 @@ Currently learning, building, and breaking things to understand how they work.
 **Web3**
 
 <p>
-  <img src="https://cdn.simpleicons.org/solidity" width="40" alt="Solidity"/> 
-  <img src="https://cdn.simpleicons.org/ethereum" width="40" alt="Ethereum"/>
+  Im progress
 </p>
 
 ---

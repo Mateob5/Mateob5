@@ -16,7 +16,7 @@ Currently learning, building, and breaking things to understand how they work.
   <img src="https://cdn.simpleicons.org/python" width="40" alt="Python"/> 
   <img src="https://cdn.simpleicons.org/cplusplus" width="40" alt="C++"/> 
   <img src="https://cdn.simpleicons.org/javascript" width="40" alt="JavaScript"/> 
-  <img src="https://cdn.simpleicons.org/mysql" width="40" alt="SQL"/> 
+  <img src="https://cdn.simpleicons.org/sql" width="40" alt="SQL"/> 
 </p>
 
 **Data & ML**

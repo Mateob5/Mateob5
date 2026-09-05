@@ -1,4 +1,4 @@
-# Hi, I'm Jeronimo 👋
+# Mateo Bazan
 
 **Data Science Engineering Student · Full-Stack Developer · Web3 Enthusiast**
 

@@ -52,7 +52,7 @@ Currently learning, building, and breaking things to understand how they work.
 **Web3**
 
 <p>
-  Im progress
+  In progress
 </p>
 
 ---
